@@ -1,5 +1,5 @@
 # ML Challenge 2025 - Product Price Prediction
-## Submission by [G Pranav Ganesh]
+## Submission by Vishal Bhandarakavathe and Team(WildStone)
 
 ### Date: 2025-10-11
 
@@ -73,4 +73,4 @@ Key features in order of importance:
   - Price range-specific models
 
 ## Contact
-[Your Email]
+bvishal2107@gmail.com
