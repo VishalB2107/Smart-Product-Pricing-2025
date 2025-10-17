@@ -4,7 +4,7 @@
 ### Date: 2025-10-11
 
 ## Overview
-This submission contains a machine learning solution for predicting product prices based on catalog content.
+This project was developed for the Amazon ML Challenge 2025 – Smart Product Pricing competition, where the goal was to predict optimal product prices based on product descriptions and specifications. The solution implements a Random Forest Regressor trained on textual data extracted from the catalog_content field. Using a combination of custom text-based features (like length, numeric indicators, and brand/quantity presence) and TF-IDF representations of product descriptions, the model learns complex relationships between product details and pricing. It achieved a validation Mean Absolute Error (MAE) that translated to an approximate SMAPE score of 42% on the public leaderboard. The codebase supports full training, evaluation, and generation of submission-ready predictions (test_out.csv).
 
 ## Approach
 - **Method**: Random Forest Regression with Text Feature Engineering
